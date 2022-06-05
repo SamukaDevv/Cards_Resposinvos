@@ -5,8 +5,8 @@
     font-size: Arial, Helvetica, sans-serif;
 }
 body{
-    height: 800%;
-    width: 800%;
+    height: 80%;
+    width: 80%;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
