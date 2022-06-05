@@ -9,6 +9,8 @@ body{
     width: 100%;
     display: flex;
     justify-content: center;
+
+    height: 750px;
     flex-wrap: wrap;
 }
 body{
